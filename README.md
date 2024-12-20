@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kumavat Rakesh 
 - 👀 I’m interested in unity
-- 🌱 I’m currently learning unity games
+- 🌱 I’m currently learning web Technology
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me rakeshkumawat14578@gmail.com
 
